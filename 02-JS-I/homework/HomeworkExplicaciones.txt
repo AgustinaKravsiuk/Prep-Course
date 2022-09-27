@@ -1,0 +1,16 @@
+Explicación de conceptos vistos en la clase 02-JS-I:
+
+ * Variables : Sirven para guardar información que vas a usar más adelante.
+
+
+ * Strings : Es un bloque de texto, siempre se define entre comillas.
+
+
+ * Funciones (argumentos, `return`) : Son tipos de objetos que nos permiten agrupar código, guardarlo y después volverlo a llamar.
+ Empieza con la palabra clave `function`, seguido del nombre de la función (describiendo lo que hace), paréntesis en donde estará el argumento y por último corchetes donde irá el código a ejecutar.
+
+
+ * Declaraciones `if` : Al utilizar ésta declaración, se verifica si algo es true, en caso de que no lo sea, devuelve false, para ésto se utilizan operadores de comparación.
+
+
+ * Valores booleanos (`true`, `false`) : proviene de la lógica de Boole, en donde tan sólo hay dos opciones (verdadero o falso, prendido o apagado, 0 o 1)
