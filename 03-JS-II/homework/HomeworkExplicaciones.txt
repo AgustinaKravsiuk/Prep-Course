@@ -1,0 +1,9 @@
+Explicación de conceptos vistos en la clase 03-JS-II:
+
+* `for` crea un bucle que sirve para hacer tareas repetitivas. Está compuesto por tres partes.
+Primero debemos declarar una variable y sobre ella se realizará el bucle; luego, hacer una expresión condicional; y por último incrementar la variable.
+
+* `&&`, `||`, `!` Son operadores lógicos que permiten convinar dos expresiones de igualdad y preguntar si alguna (o ambas) son true o false (operadores booleanos).
+    && (Y - AND) Evalúa ambas expresiones y devuelve true si AMBAS son verdaderas, sino devuelve false.
+    || (O - OR) Evalúa ambas expresiones y devuelve false si AMBAS son falsas sino devuelve true.
+    ! (NO -NOT) Devuelve el valor booleano opuesto a lo que se le pasa.
