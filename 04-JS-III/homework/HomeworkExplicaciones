@@ -1,0 +1,4 @@
+Explicación de conceptos vistos en la clase JS III:
+Arrays: son una lista de elementos. Se define usando corchetes, cada elemento dentro del corchete se separa con una coma (,).
+  Dentro de un array puede haber todo tipo de datos: strings, números, booleanos.
+  Proporciona métodos para efectuar operaciones de recorrido y de mutación (cambio).
