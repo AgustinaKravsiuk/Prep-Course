@@ -1,0 +1,16 @@
+Explicación de conceptos vistos en la clase JS IV:
+
+	* Objetos: Son una colección de datos, pueden contener mucha información sobre una sola cosa, y se instancian usando llaves.
+
+	* Propiedades: Es la asociación entre un nombre y un valor, se lo conoce como pares key:value. La key es el identificador y el value es el calor que queremos guardar en esa clave.
+                 Los objetos pueden contener muchos de estos pares, que deben estar separados por una coma. Los valores pueden ser: cadenas, números, booleanos, matriz, función o incluso otro objeto.
+
+	* Métodos: Son las funciones guardadas en un objeto. Por ejemplo: .length, .push, .pop.
+
+	* Bucle `for…in`: Bucle que recorre cada clave del objeto y finaliza cuando se hayan iterado todas las claves.
+                    Comienza con for, seguido de un paréntesis donde declaramos una variable, luego la palabra clave in y seguido el nombre del objeto.
+
+	* Notación de puntos vs notación de corchetes: Son formas de asignar y acceder a valores. 
+                                                 En la notación de puntos, se escribe el nombre del objeto, un punto y el nombre de la clave.
+                                                 En la notación de corchetes, se escribe el nombre del objeto, y entre corchetes con comillas se escribe el nombre de la clave.
+                                                 La gran diferencia entre estas notaciones, es que usando puntos se busca literalmente lo declarado, en cambio con corchetes puede buscar sin ser literal.
