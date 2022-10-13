@@ -1,0 +1,7 @@
+Explicación de conceptos vistos en la clase JS V:
+  
+* `prototype` : Con prototype, las clases tienen una forma única de establecer un método una vez y dar acceso a cada objeto de esa clase a esos métodos.
+                Cada clase tiene una propiedad prototype, que luego podemos establecer en métodos.
+                Los métodos de prototype tienen acceso a la palabra clave this.
+
+* _Constructors_ (de Clases) : Método para crear e iniciar un objeto creado a partir de una clase.
