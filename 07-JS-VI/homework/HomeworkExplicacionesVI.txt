@@ -1,0 +1,3 @@
+Explicación de conceptos vistos en la clase JS VI:
+
+* Funciones Callback : Funciones que tienen la capacidad de ser llamadas dentro del argumento de otra función.
